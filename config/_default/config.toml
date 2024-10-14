@@ -8,6 +8,7 @@ image = "assets/img/avatar.png"
 comments = false
 license = false
 readingTime = true
+keywords = ["psihologija", "humor"]
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
