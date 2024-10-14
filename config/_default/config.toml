@@ -7,7 +7,7 @@ description = "Vrag je donio šalu."
 image = "assets/img/avatar.png"
 comments = false
 license = false
-keywords = [psihologija, humor]
+keywords = [psihologija]
 readingTime = true
 
 # Theme i18n support
