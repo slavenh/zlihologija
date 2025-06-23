@@ -10,6 +10,11 @@ license = false
 readingTime = true
 keywords = ["psihologija", "humor"]
 
+[author]
+name = "/S"
+bio = "Zliholog opće prakse."
+url = "https://zlihologija.com/o-meni"
+
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
 defaultContentLanguage = "hr"

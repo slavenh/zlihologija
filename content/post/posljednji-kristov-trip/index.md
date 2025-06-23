@@ -4,15 +4,18 @@ description: Nitko ne zna kako je nastala niti kakve veze ima s Uskrsom, ali mo�
 slug: posljednji-kristov-trip-pinca
 date: 2022-03-06 00:00:00+0000
 image: jesus-space.jpg
+imagesource: "Midjourney"
 categories:
   - Tekstovi
 tags:
-  - isus, pinca, recept
+  - isus
+  - pinca
+  - recept
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 Obilježavanje Uskrsa ne može proći bez pince, slatkog kruha prepunog začina i aroma. Nitko ne zna kako je nastala niti kakve veze ima s Uskrsom, ali možemo zamisliti ovaj scenarij...
-
+<!--more-->
 Nakon mučenja na križu, beživotno Isusovo tijelo odnijeli su u pećinu. Ali on nije bio mrtav namrtvo, već samo na rubu smrti. Premlaćen, izbušen, dehidriran i nesvjestan okoline. Kao kad negativci ostave Jamesa Bonda da ga požderu morski psi, ali ne čekaju da budu sigurni već odu i kažu: "Počivao nam Bond u miru".
 
 Kažu da se u takvim trenucima, kada čovjek lebdi na rubu života i smrti, u mozgu luči golema količina DMT-a, psihodelične supstance od koje se može doživjeti iskustvo kliničke smrti. To se dogodilo i Isusu. Duša mu se oslobodila tjelesnih okova i krenula prema nebu, na posljednji Kristov trip.
